@@ -1,40 +1,45 @@
-#Actividades JavaScript
+# Proyecto Actividades JavaScript
 
-Proyecto web desarrollado con HTML, CSS y Bootstrap 5 para practicar conceptos fundamentales de JavaScript.
+## Descripción
 
-#Contenido del proyecto
+Este proyecto contiene una serie de actividades prácticas desarrolladas en JavaScript como parte del proceso de aprendizaje. Cada actividad está organizada en una estructura modular dentro de la carpeta `src/features`.
 
-Este proyecto incluye las siguientes actividades:
+El proyecto incluye ejemplos de:
 
--  CRUD con LocalStorage
--  Callback
--  Promises
--  Async/Await
--  Destructuring de objetos
+- CRUD con LocalStorage
+- Callbacks
+- Promesas
+- Async/Await
+- Destructuring de objetos
 
---
+---
 
-# Tecnologías utilizadas
+
+## Actividades
+
+### 1. CRUD
+Permite crear, leer, actualizar y eliminar registros utilizando LocalStorage.
+
+### 2. Callback
+Ejemplo práctico del uso de funciones callback en JavaScript.
+
+### 3. Promises
+Implementación de promesas para el manejo de operaciones asíncronas.
+
+### 4. Async/Await
+Uso de async y await como forma moderna de manejar promesas.
+
+### 5. Destructuring
+Uso de destructuring para extraer propiedades de objetos de manera simplificada.
+
+---
+
+## Tecnologías Utilizadas
 
 - HTML5
 - CSS3
 - Bootstrap 5
-- JavaScript 
+- JavaScript
+- LocalStorage
 
--
-
-# Estructura del proyecto
-
-- `/crud` - aplicación CRUD con almacenamiento local
-- `/callback` - ejemplo práctico de callback
-- `/promise` - uso de promesas
-- `/asyncawait` - uso de async/await
-- `/destructuring` - ejemplo de destructuring
--
-
-# Objetivo
-
-Comprender y aplicar conceptos clave de JavaScript moderno mediante ejercicios prácticos.
-
-
-Desarrollado como actividad académica.
+---
